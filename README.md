@@ -2,8 +2,8 @@
 
 ## Hi! I'm Beatriz Fiochi! 👋
 
-🐝 I'm passionate about animals and technology<br>
-🌱 I'm currently studying at 42 Porto School<br>
+🐝 I'm a software development student making a bold and exciting career shift from veterinary medicine to tech.<br> 
+🕶 Currently studying at 42 Porto Programming School.<br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrizfiochi&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Beatriz Fiochi github stats" /> 
@@ -16,6 +16,8 @@
     <img align="left" alt="CSS" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="left" alt="Js" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="left" alt="Git" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="Git" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="left" alt="Git" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 
 </div>
 <br>
