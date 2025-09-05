@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Beatriz!
-🐝 I'm a software development student making a bold and exciting career shift from veterinary medicine to tech.<br/> 
+🐝 I'm a software development student.<br/> 
 📖 Currently studying at [42 Porto](https://www.42porto.com/)<br/>
 <br>
 
