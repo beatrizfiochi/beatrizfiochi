@@ -1,5 +1,16 @@
-# 👋 Hi, I'm Beatriz!
-🐝 I'm a software development student.<br/> 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7A846&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Beatriz!+%F0%9F%90%9D;Full-Stack+Dev;42+Porto+%7C+CESAE+Digital" alt="Typing SVG" />
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/42_Porto-000000?style=for-the-badge&logo=42&logoColor=white" />
+  <img src="https://img.shields.io/badge/CESAE_Digital-Full--Stack-6C63FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Porto%2C_Portugal-f8dda2?style=for-the-badge" />
+</p>
+
+</div>🐝 I'm a software development student.<br/> 
 📖 Currently studying at [42 Porto](https://www.42porto.com/)<br/>
 <br>
 
