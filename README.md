@@ -5,10 +5,12 @@
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/42_Porto-000000?style=for-the-badge&logo=42&logoColor=white" />
-  <img src="https://img.shields.io/badge/CESAE_Digital-Full--Stack-6C63FF?style=for-the-badge&logoColor=white" />
+  <a href="https://www.42porto.com/pt/" target="_blank"><img src="https://img.shields.io/badge/42_Porto-000000?style=for-the-badge&logo=42&logoColor=white" /></a>
+  <a href="https://cesaedigital.pt/" target="_blank"><img src="https://img.shields.io/badge/CESAE_Digital-Full--Stack-6C63FF?style=for-the-badge&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Porto%2C_Portugal-f8dda2?style=for-the-badge" />
 </p>
+
+<hr>
 
 </div>🐝 I'm a software development student.<br/> 
 📖 Currently studying at [42 Porto](https://www.42porto.com/)<br/>
