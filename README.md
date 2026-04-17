@@ -12,8 +12,15 @@
 
 <hr>
 
-</div>🐝 I'm a software development student.<br/> 
-📖 Currently studying at [42 Porto](https://www.42porto.com/)<br/>
+</div>
+
+# 🧠 About me
+
+- Software developer student with a love for building things from scratch
+- Studying low-level programming and computer science fundamentals at **42 Porto**
+- Learning Full-Stack Web & Mobile Development at **CESAE Digital Porto**
+- Currently working on my **Rank 05** project at 42
+- CESAE projects coming soon to GitHub!
 <br>
 
 # 📊 GitHub Stats:
