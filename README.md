@@ -14,7 +14,7 @@
 
 </div>
 
-# 🧠 About me
+## About me
 
 - Software developer student with a love for building things from scratch
 - Studying low-level programming and computer science fundamentals at **42 Porto**
@@ -23,16 +23,16 @@
 - CESAE projects coming soon to GitHub!
 <br>
 
-# 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizfiochi&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-# 💻 Tech Stack:
+## Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
 <br>
 
-# 🧩 42 Common Core Projects:
+## 42 Common Core Projects:
 |Project | Tools | Notions | Description|
 |:---:|:---:|:---:|:---:|
 | **RANK 05** |
