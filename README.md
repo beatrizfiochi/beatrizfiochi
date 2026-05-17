@@ -23,20 +23,21 @@
 - CESAE projects coming soon to GitHub!
 <br>
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizfiochi&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ## Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
 <br>
 
+## Personal Projects:
+[Mirtilo The Dog - Webpage](https://github.com/beatrizfiochi/mirtilo_the_dog_webpage)
+A small static website showcasing Mirtilo The Dog™, built to practice HTML and CSS fundamentals with Bootstrap, responsive design, and dynamic page rendering using JSON data.
+
 ## 42 Common Core Projects:
 |Project | Tools | Notions | Description|
 |:---:|:---:|:---:|:---:|
 | **RANK 05** |
-| ⏳ | **In** | **Progress** | ⏳ |
+| CPP_Modules | **In** | **Progress** | ⏳ |
+| [Ft_irc](https://github.com/beatrizfiochi/ft_irc) | C++, Socket Programming, Makefile, TCP/IP | Network Programming, IRC Protocol, Multiplexing | A custom IRC server built from scratch using socket programming, supporting multiple clients, channels, authentication, and core IRC commands with I/O multiplexing. |
 | **RANK 04** |
 | [CPP_Modules](https://github.com/beatrizfiochi/CPP_modules_R4) | C++, Makefile, Standard Library | Object-Oriented Programming | A series of modules introducing C++ and Object-Oriented Programming, covering core concepts like classes, inheritance, polymorphism, templates, and exception handling through progressive exercises. |
 |[Cub3D](https://github.com/beatrizfiochi/cub3D)| C language, Minilibx, Makefile | Raycasting, 3D projection, Game engine basics  | A 3D raycasting engine inspired by Wolfenstein 3D, focusing on rendering, player movement, collision detection, texture mapping, and animated sprites. Done in partnership with [@djunho](https://github.com/djunho) |
